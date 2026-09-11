@@ -1,0 +1,1 @@
+Developed a physics-informed ML model that combines an inverted-pendulum and spring-damper based biomechanical model with Gradient Boosting residual learning to predict and correct vertical ground reaction force curves from anthropometric and gait parameters.
